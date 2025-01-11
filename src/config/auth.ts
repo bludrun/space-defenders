@@ -1,7 +1,7 @@
 export const authConfig = {
   authority: `https://eu-north-1qxhxtxgzn.auth.eu-north-1.amazoncognito.com`,
   client_id: import.meta.env.VITE_COGNITO_CLIENT_ID,
-  redirect_uri: "http://localhost:5173/",
+  redirect_uri: "https://main.d1kar8wuyccm32.amplifyapp.com/",
   response_type: "code",
   scope: "email openid profile",
   loadUserInfo: true,
