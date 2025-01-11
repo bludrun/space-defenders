@@ -81,3 +81,4 @@ export function StartPage({ onStartGame }: StartPageProps) {
     </div>
   );
 }
+ //done
