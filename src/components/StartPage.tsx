@@ -35,7 +35,7 @@ export function StartPage({ onStartGame }: StartPageProps) {
     <div className="fixed inset-0 bg-[url('/space-background.jpg')] bg-cover bg-center flex flex-col items-center justify-center p-8">
       <div className="max-w-4xl w-full">
         <div className="flex justify-between items-center mb-12">
-          <h1 className="text-4xl font-bold text-white">Space Defender</h1>
+          <h1 className="text-4xl font-bold text-white">Space Defenders</h1>
           <div className="flex items-center gap-4">
             {user ? (
               <>
