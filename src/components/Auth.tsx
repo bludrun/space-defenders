@@ -77,7 +77,7 @@ export function Auth() {
               onClick={handleSignIn}
               className="w-full bg-blue-600 hover:bg-blue-700 text-white px-6 py-3 rounded-lg text-lg font-semibold transition-colors duration-200 flex items-center justify-center group"
             >
-              <span>Sign in with Google</span>
+              <span>Sign in</span>
               <span className="ml-2 opacity-0 group-hover:opacity-100 transition-opacity">
                 →
               </span>
